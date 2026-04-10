@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "SensorNode") (type "KiCad") (uri "/home/niko/projects/SensorNode/footprints/KiCADv6/2026-04-10_13-48-02.kicad_sym") (options "") (descr ""))
+)
